@@ -1,7 +1,7 @@
 {
   "ConnectionStrings": {
-    "BlogDataContext": "Server=(localdb)\\mssqllocaldb;Database=ExploreCalifornia;Trusted_Connection=True;",
-    "SpecialsDataContext": "Server=(localdb)\\mssqllocaldb;Database=ExploreCalifornia_Specials;Trusted_Connection=True;"
+    "BlogDataContext": "Server=den1.mssql3.gear.host;Database=explorecali;User Id=explorecali; Password=Hk4y46-aVN-4;",
+    "SpecialsDataContext": "Server=den1.mssql3.gear.host;Database=explcalispecials;User Id=explcalispecials;Password=Go00NowE5_-s;"
   },
   "FeatureToggles": {
     "EnableDeveloperExceptions": true
