@@ -92,8 +92,8 @@
                     @await (Component.InvokeAsync<ExploreCalifornia.ViewComponents.MonthlySpecialsViewComponent>())
                 </div>
                 <div id="trivia" class="callOut">
-                    <h1>Did You Know?</h1>
-                    <p>California produces over 17 million gallons of wine each year!</p>
+                    @await (Component.InvokeAsync<ExploreCalifornia.ViewComponents.DidYouKnowViewComponent>())
+                    <!--California produces over 17 million gallons of wine each year-->
                 </div>
             </aside>
         </div>

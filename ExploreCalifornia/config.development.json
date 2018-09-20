@@ -2,7 +2,8 @@
   "ConnectionStrings": {
     "BlogDataContext": "Server=den1.mssql3.gear.host;Database=explorecali;User Id=explorecali; Password=Ps4b!P8zzAB?",
     "SpecialsDataContext": "Server=den1.mssql3.gear.host;Database=explcalispecials;User Id=explcalispecials;Password=Go00NowE5_-s;",
-    "IdentityDataContext": "Server=den1.mssql6.gear.host;Database=californiausers;User Id=californiausers;Password=Wg6rM!65qJe_;"
+    "IdentityDataContext": "Server=den1.mssql3.gear.host;Database=californiausers;User Id=californiausers;Password=Ez89~L_kV5j5;",
+    "DidYouKnowDataContext": "Server=den1.mssql2.gear.host;Database=didyouknowcali;User Id=didyouknowcali;Password=Ob4x?350E~3O;"
   },
   "FeatureToggles": {
     "EnableDeveloperExceptions": true

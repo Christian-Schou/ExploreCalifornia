@@ -1,0 +1,7 @@
+﻿@model IEnumerable<ExploreCalifornia.Models.DidYouKnow>
+<h1>Did you know?</h1>
+
+@foreach (var didYouKnow in Model)
+{
+    <p>@didYouKnow.Description</p>
+}
